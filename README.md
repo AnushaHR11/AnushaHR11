@@ -1,5 +1,10 @@
 <!--Anusha Pujari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.-->
+ANUSHA PUJARI
+, Arlington, Texas, United States
+- +1 (682) 682-0636 | amruthalike4@gmail.com
+- linkedin.com/in/anushapujari-2bb733287
+- github.com/AnushaHR11
 
 TECHNICAL SKILLS:
 - Programming & Query Languages: SQL (Advanced), Python, Java
